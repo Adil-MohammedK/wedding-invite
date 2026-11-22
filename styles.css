@@ -595,9 +595,9 @@ h1 {
   overflow: hidden;
   background-color: #804f50;
   background-image:
-    radial-gradient(ellipse at 12% 18%, rgba(241, 198, 187, .17), transparent 29%),
+    radial-gradient(ellipse at 12% 18%, rgba(228, 124, 97, 0.17), transparent 29%),
     radial-gradient(ellipse at 88% 82%, rgba(241, 198, 187, .12), transparent 32%),
-    linear-gradient(135deg, #9d6c6b, #744747 74%);
+    linear-gradient(135deg, #670E10, #621819 74%);
   backface-visibility: hidden;
   transform-style: preserve-3d;
   transition: transform 1.5s cubic-bezier(.45, 0, .2, 1);
